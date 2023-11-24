@@ -1,0 +1,770 @@
+[
+  {
+    "GameName": "Poker",
+    "Category": "Casinos",
+    "TotalBets": "1000",
+    "TotalWins": "500",
+    "AverageBetAmount": "10.5",
+    "PopularityScore": "8.2"
+  },
+  {
+    "GameName": "Blackjack",
+    "Category": "Casinos",
+    "TotalBets": "1500",
+    "TotalWins": "800",
+    "AverageBetAmount": "15.2",
+    "PopularityScore": "7.6"
+  },
+  {
+    "GameName": "Slot Machines",
+    "Category": "Recreational machines",
+    "TotalBets": "5000",
+    "TotalWins": "2000",
+    "AverageBetAmount": "2.5",
+    "PopularityScore": "9.3"
+  },
+  {
+    "GameName": "Roulette",
+    "Category": "Casinos",
+    "TotalBets": "2000",
+    "TotalWins": "1000",
+    "AverageBetAmount": "20.0",
+    "PopularityScore": "6.9"
+  },
+  {
+    "GameName": "Craps",
+    "Category": "Casinos",
+    "TotalBets": "800",
+    "TotalWins": "300",
+    "AverageBetAmount": "12.8",
+    "PopularityScore": "5.4"
+  },
+  {
+    "GameName": "Bingo",
+    "Category": "Recreational machines",
+    "TotalBets": "300",
+    "TotalWins": "150",
+    "AverageBetAmount": "5.7",
+    "PopularityScore": "7.8"
+  },
+  {
+    "GameName": "Keno",
+    "Category": "Recreational machines",
+    "TotalBets": "400",
+    "TotalWins": "200",
+    "AverageBetAmount": "6.2",
+    "PopularityScore": "6.1"
+  },
+  {
+    "GameName": "Sports Betting",
+    "Category": "Sports",
+    "TotalBets": "5000",
+    "TotalWins": "2500",
+    "AverageBetAmount": "50.0",
+    "PopularityScore": "9.7"
+  },
+  {
+    "GameName": "Horse Racing",
+    "Category": "Sports",
+    "TotalBets": "3000",
+    "TotalWins": "1200",
+    "AverageBetAmount": "25.0",
+    "PopularityScore": "8.4"
+  },
+  {
+    "GameName": "Soccer Betting",
+    "Category": "Sports",
+    "TotalBets": "2000",
+    "TotalWins": "900",
+    "AverageBetAmount": "35.0",
+    "PopularityScore": "7.2"
+  },
+  {
+    "GameName": "Basketball Betting",
+    "Category": "Sports",
+    "TotalBets": "1800",
+    "TotalWins": "800",
+    "AverageBetAmount": "42.0",
+    "PopularityScore": "6.8"
+  },
+  {
+    "GameName": "Baseball Betting",
+    "Category": "Sports",
+    "TotalBets": "1500",
+    "TotalWins": "700",
+    "AverageBetAmount": "48.0",
+    "PopularityScore": "6.5"
+  },
+  {
+    "GameName": "Cricket Betting",
+    "Category": "Sports",
+    "TotalBets": "1200",
+    "TotalWins": "600",
+    "AverageBetAmount": "55.0",
+    "PopularityScore": "6.2"
+  },
+  {
+    "GameName": "Tennis Betting",
+    "Category": "Sports",
+    "TotalBets": "1000",
+    "TotalWins": "500",
+    "AverageBetAmount": "60.0",
+    "PopularityScore": "6.0"
+  },
+  {
+    "GameName": "Golf Betting",
+    "Category": "Sports",
+    "TotalBets": "800",
+    "TotalWins": "400",
+    "AverageBetAmount": "70.0",
+    "PopularityScore": "5.7"
+  },
+  {
+    "GameName": "Boxing Betting",
+    "Category": "Sports",
+    "TotalBets": "600",
+    "TotalWins": "300",
+    "AverageBetAmount": "80.0",
+    "PopularityScore": "5.4"
+  },
+  {
+    "GameName": "MMA Betting",
+    "Category": "Sports",
+    "TotalBets": "400",
+    "TotalWins": "200",
+    "AverageBetAmount": "100.0",
+    "PopularityScore": "5.1"
+  },
+  {
+    "GameName": "Cycling Betting",
+    "Category": "Sports",
+    "TotalBets": "200",
+    "TotalWins": "100",
+    "AverageBetAmount": "200.0",
+    "PopularityScore": "4.8"
+  },
+  {
+    "GameName": "Fishing Game",
+    "Category": "Recreational machines",
+    "TotalBets": "100",
+    "TotalWins": "50",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "7.5"
+  },
+  {
+    "GameName": "Bowling Game",
+    "Category": "Recreational machines",
+    "TotalBets": "50",
+    "TotalWins": "20",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "6.7"
+  },
+  {
+    "GameName": "Darts Game",
+    "Category": "Recreational machines",
+    "TotalBets": "80",
+    "TotalWins": "30",
+    "AverageBetAmount": "8.0",
+    "PopularityScore": "6.0"
+  },
+  {
+    "GameName": "Guitar Hero Arcade",
+    "Category": "Recreational machines",
+    "TotalBets": "120",
+    "TotalWins": "60",
+    "AverageBetAmount": "12.0",
+    "PopularityScore": "8.7"
+  },
+  {
+    "GameName": "Air Hockey",
+    "Category": "Recreational machines",
+    "TotalBets": "90",
+    "TotalWins": "40",
+    "AverageBetAmount": "9.0",
+    "PopularityScore": "7.9"
+  },
+  {
+    "GameName": "Foosball",
+    "Category": "Recreational machines",
+    "TotalBets": "70",
+    "TotalWins": "25",
+    "AverageBetAmount": "7.0",
+    "PopularityScore": "6.3"
+  },
+  {
+    "GameName": "Skiing Game",
+    "Category": "Recreational machines",
+    "TotalBets": "60",
+    "TotalWins": "20",
+    "AverageBetAmount": "6.0",
+    "PopularityScore": "5.6"
+  },
+  {
+    "GameName": "Basketball Game",
+    "Category": "Recreational machines",
+    "TotalBets": "100",
+    "TotalWins": "40",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "7.2"
+  },
+  {
+    "GameName": "Football Game",
+    "Category": "Recreational machines",
+    "TotalBets": "150",
+    "TotalWins": "60",
+    "AverageBetAmount": "15.0",
+    "PopularityScore": "8.4"
+  },
+  {
+    "GameName": "Golf Game",
+    "Category": "Recreational machines",
+    "TotalBets": "80",
+    "TotalWins": "30",
+    "AverageBetAmount": "8.0",
+    "PopularityScore": "6.9"
+  },
+  {
+    "GameName": "Tennis Game",
+    "Category": "Recreational machines",
+    "TotalBets": "70",
+    "TotalWins": "25",
+    "AverageBetAmount": "7.0",
+    "PopularityScore": "6.1"
+  },
+  {
+    "GameName": "Volleyball Game",
+    "Category": "Recreational machines",
+    "TotalBets": "50",
+    "TotalWins": "20",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "5.3"
+  },
+  {
+    "GameName": "Cricket Game",
+    "Category": "Recreational machines",
+    "TotalBets": "40",
+    "TotalWins": "15",
+    "AverageBetAmount": "4.0",
+    "PopularityScore": "4.6"
+  },
+  {
+    "GameName": "Hockey Game",
+    "Category": "Recreational machines",
+    "TotalBets": "30",
+    "TotalWins": "10",
+    "AverageBetAmount": "3.0",
+    "PopularityScore": "3.9"
+  },
+  {
+    "GameName": "Racing Game",
+    "Category": "Recreational machines",
+    "TotalBets": "90",
+    "TotalWins": "40",
+    "AverageBetAmount": "9.0",
+    "PopularityScore": "7.5"
+  },
+  {
+    "GameName": "Boxing Game",
+    "Category": "Recreational machines",
+    "TotalBets": "60",
+    "TotalWins": "20",
+    "AverageBetAmount": "6.0",
+    "PopularityScore": "6.2"
+  },
+  {
+    "GameName": "Wrestling Game",
+    "Category": "Recreational machines",
+    "TotalBets": "40",
+    "TotalWins": "15",
+    "AverageBetAmount": "4.0",
+    "PopularityScore": "5.1"
+  },
+  {
+    "GameName": "Soccer Game",
+    "Category": "Recreational machines",
+    "TotalBets": "80",
+    "TotalWins": "30",
+    "AverageBetAmount": "8.0",
+    "PopularityScore": "6.7"
+  },
+  {
+    "GameName": "Baseball Game",
+    "Category": "Recreational machines",
+    "TotalBets": "70",
+    "TotalWins": "25",
+    "AverageBetAmount": "7.0",
+    "PopularityScore": "6.0"
+  },
+  {
+    "GameName": "Basketball Game",
+    "Category": "Recreational machines",
+    "TotalBets": "50",
+    "TotalWins": "20",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "5.4"
+  },
+  {
+    "GameName": "Volleyball Game",
+    "Category": "Recreational machines",
+    "TotalBets": "30",
+    "TotalWins": "10",
+    "AverageBetAmount": "3.0",
+    "PopularityScore": "4.8"
+  },
+  {
+    "GameName": "Tennis Game",
+    "Category": "Recreational machines",
+    "TotalBets": "40",
+    "TotalWins": "15",
+    "AverageBetAmount": "4.0",
+    "PopularityScore": "4.2"
+  },
+  {
+    "GameName": "Golf Game",
+    "Category": "Recreational machines",
+    "TotalBets": "60",
+    "TotalWins": "20",
+    "AverageBetAmount": "6.0",
+    "PopularityScore": "5.6"
+  },
+  {
+    "GameName": "Cricket Game",
+    "Category": "Recreational machines",
+    "TotalBets": "50",
+    "TotalWins": "20",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "5.0"
+  },
+  {
+    "GameName": "Hockey Game",
+    "Category": "Recreational machines",
+    "TotalBets": "30",
+    "TotalWins": "10",
+    "AverageBetAmount": "3.0",
+    "PopularityScore": "4.4"
+  },
+  {
+    "GameName": "Racing Game",
+    "Category": "Recreational machines",
+    "TotalBets": "40",
+    "TotalWins": "15",
+    "AverageBetAmount": "4.0",
+    "PopularityScore": "4.9"
+  },
+  {
+    "GameName": "Boxing Game",
+    "Category": "Recreational machines",
+    "TotalBets": "60",
+    "TotalWins": "20",
+    "AverageBetAmount": "6.0",
+    "PopularityScore": "5.5"
+  },
+  {
+    "GameName": "Wrestling Game",
+    "Category": "Recreational machines",
+    "TotalBets": "70",
+    "TotalWins": "25",
+    "AverageBetAmount": "7.0",
+    "PopularityScore": "6.0"
+  },
+  {
+    "GameName": "Soccer Game",
+    "Category": "Recreational machines",
+    "TotalBets": "80",
+    "TotalWins": "30",
+    "AverageBetAmount": "8.0",
+    "PopularityScore": "6.5"
+  },
+  {
+    "GameName": "Baseball Game",
+    "Category": "Recreational machines",
+    "TotalBets": "90",
+    "TotalWins": "40",
+    "AverageBetAmount": "9.0",
+    "PopularityScore": "7.0"
+  },
+  {
+    "GameName": "Basketball Game",
+    "Category": "Recreational machines",
+    "TotalBets": "100",
+    "TotalWins": "40",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "7.5"
+  },
+  {
+    "GameName": "Poker",
+    "Category": "Card Game",
+    "TotalBets": "10000",
+    "TotalWins": "5000",
+    "AverageBetAmount": "10.5",
+    "PopularityScore": "8.7"
+  },
+  {
+    "GameName": "Blackjack",
+    "Category": "Card Game",
+    "TotalBets": "15000",
+    "TotalWins": "7500",
+    "AverageBetAmount": "15.2",
+    "PopularityScore": "9.2"
+  },
+  {
+    "GameName": "Roulette",
+    "Category": "Table Game",
+    "TotalBets": "20000",
+    "TotalWins": "10000",
+    "AverageBetAmount": "25.0",
+    "PopularityScore": "7.9"
+  },
+  {
+    "GameName": "Slot Machine",
+    "Category": "Recreational Machine",
+    "TotalBets": "50000",
+    "TotalWins": "25000",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "9.8"
+  },
+  {
+    "GameName": "Baccarat",
+    "Category": "Card Game",
+    "TotalBets": "8000",
+    "TotalWins": "4000",
+    "AverageBetAmount": "20.0",
+    "PopularityScore": "6.5"
+  },
+  {
+    "GameName": "Craps",
+    "Category": "Table Game",
+    "TotalBets": "12000",
+    "TotalWins": "6000",
+    "AverageBetAmount": "18.2",
+    "PopularityScore": "7.1"
+  },
+  {
+    "GameName": "Keno",
+    "Category": "Recreational Game",
+    "TotalBets": "3000",
+    "TotalWins": "1500",
+    "AverageBetAmount": "2.5",
+    "PopularityScore": "5.3"
+  },
+  {
+    "GameName": "Sic Bo",
+    "Category": "Dice Game",
+    "TotalBets": "6000",
+    "TotalWins": "3000",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "4.6"
+  },
+  {
+    "GameName": "Pai Gow Poker",
+    "Category": "Card Game",
+    "TotalBets": "7000",
+    "TotalWins": "3500",
+    "AverageBetAmount": "12.5",
+    "PopularityScore": "6.9"
+  },
+  {
+    "GameName": "Wheel of Fortune",
+    "Category": "Recreational Machine",
+    "TotalBets": "10000",
+    "TotalWins": "5000",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "8.2"
+  },
+  {
+    "GameName": "Texas Hold'em",
+    "Category": "Card Game",
+    "TotalBets": "18000",
+    "TotalWins": "9000",
+    "AverageBetAmount": "15.3",
+    "PopularityScore": "9.5"
+  },
+  {
+    "GameName": "Three Card Poker",
+    "Category": "Card Game",
+    "TotalBets": "10000",
+    "TotalWins": "5000",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "8.4"
+  },
+  {
+    "GameName": "Bingo",
+    "Category": "Recreational Game",
+    "TotalBets": "4000",
+    "TotalWins": "2000",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "7.6"
+  },
+  {
+    "GameName": "Red Dog",
+    "Category": "Card Game",
+    "TotalBets": "3000",
+    "TotalWins": "1500",
+    "AverageBetAmount": "8.0",
+    "PopularityScore": "5.9"
+  },
+  {
+    "GameName": "Pachinko",
+    "Category": "Recreational Machine",
+    "TotalBets": "20000",
+    "TotalWins": "10000",
+    "AverageBetAmount": "1.0",
+    "PopularityScore": "9.0"
+  },
+  {
+    "GameName": "Crazy 4 Poker",
+    "Category": "Card Game",
+    "TotalBets": "5000",
+    "TotalWins": "2500",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "7.8"
+  },
+  {
+    "GameName": "War",
+    "Category": "Card Game",
+    "TotalBets": "4000",
+    "TotalWins": "2000",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "6.3"
+  },
+  {
+    "GameName": "Big Six Wheel",
+    "Category": "Recreational Machine",
+    "TotalBets": "8000",
+    "TotalWins": "4000",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "8.1"
+  },
+  {
+    "GameName": "Caribbean Stud Poker",
+    "Category": "Card Game",
+    "TotalBets": "9000",
+    "TotalWins": "4500",
+    "AverageBetAmount": "12.0",
+    "PopularityScore": "7.4"
+  },
+  {
+    "GameName": "Penny Slots",
+    "Category": "Recreational Machine",
+    "TotalBets": "25000",
+    "TotalWins": "12500",
+    "AverageBetAmount": "0.5",
+    "PopularityScore": "9.6"
+  },
+  {
+    "GameName": "Cribbage",
+    "Category": "Card Game",
+    "TotalBets": "2000",
+    "TotalWins": "1000",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "4.9"
+  },
+  {
+    "GameName": "Video Poker",
+    "Category": "Recreational Machine",
+    "TotalBets": "15000",
+    "TotalWins": "7500",
+    "AverageBetAmount": "1.0",
+    "PopularityScore": "9.3"
+  },
+  {
+    "GameName": "Pontoon",
+    "Category": "Card Game",
+    "TotalBets": "6000",
+    "TotalWins": "3000",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "6.7"
+  },
+  {
+    "GameName": "Fruit Machine",
+    "Category": "Recreational Machine",
+    "TotalBets": "10000",
+    "TotalWins": "5000",
+    "AverageBetAmount": "1.0",
+    "PopularityScore": "8.5"
+  },
+  {
+    "GameName": "Gin Rummy",
+    "Category": "Card Game",
+    "TotalBets": "3000",
+    "TotalWins": "1500",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "5.2"
+  },
+  {
+    "GameName": "Video Slots",
+    "Category": "Recreational Machine",
+    "TotalBets": "35000",
+    "TotalWins": "17500",
+    "AverageBetAmount": "2.0",
+    "PopularityScore": "9.7"
+  },
+  {
+    "GameName": "Backgammon",
+    "Category": "Board Game",
+    "TotalBets": "5000",
+    "TotalWins": "2500",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "7.3"
+  },
+  {
+    "GameName": "Keno Slot",
+    "Category": "Recreational Machine",
+    "TotalBets": "12000",
+    "TotalWins": "6000",
+    "AverageBetAmount": "1.0",
+    "PopularityScore": "8.9"
+  },
+  {
+    "GameName": "Hearts",
+    "Category": "Card Game",
+    "TotalBets": "4000",
+    "TotalWins": "2000",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "6.1"
+  },
+  {
+    "GameName": "Video Keno",
+    "Category": "Recreational Machine",
+    "TotalBets": "18000",
+    "TotalWins": "9000",
+    "AverageBetAmount": "1.0",
+    "PopularityScore": "9.1"
+  },
+  {
+    "GameName": "Cassino",
+    "Category": "Card Game",
+    "TotalBets": "7000",
+    "TotalWins": "3500",
+    "AverageBetAmount": "10.0",
+    "PopularityScore": "6.4"
+  },
+  {
+    "GameName": "Slingo",
+    "Category": "Recreational Machine",
+    "TotalBets": "10000",
+    "TotalWins": "5000",
+    "AverageBetAmount": "2.0",
+    "PopularityScore": "8.3"
+  },
+  {
+    "GameName": "Gin Poker",
+    "Category": "Card Game",
+    "TotalBets": "5000",
+    "TotalWins": "2500",
+    "AverageBetAmount": "8.0",
+    "PopularityScore": "5.7"
+  },
+  {
+    "GameName": "Video Lottery Terminal",
+    "Category": "Recreational Machine",
+    "TotalBets": "30000",
+    "TotalWins": "15000",
+    "AverageBetAmount": "1.0",
+    "PopularityScore": "9.4"
+  },
+  {
+    "GameName": "Canasta",
+    "Category": "Card Game",
+    "TotalBets": "2000",
+    "TotalWins": "1000",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "4.8"
+  },
+  {
+    "GameName": "Penny Arcade Slots",
+    "Category": "Recreational Machine",
+    "TotalBets": "35000",
+    "TotalWins": "17500",
+    "AverageBetAmount": "0.5",
+    "PopularityScore": "9.9"
+  },
+  {
+    "GameName": "Crazy Eights",
+    "Category": "Card Game",
+    "TotalBets": "3000",
+    "TotalWins": "1500",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "5.4"
+  },
+  {
+    "GameName": "Video Lottery",
+    "Category": "Recreational Machine",
+    "TotalBets": "40000",
+    "TotalWins": "20000",
+    "AverageBetAmount": "1.0",
+    "PopularityScore": "9.7"
+  },
+  {
+    "GameName": "Pinochle",
+    "Category": "Card Game",
+    "TotalBets": "2500",
+    "TotalWins": "1250",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "5.1"
+  },
+  {
+    "GameName": "Penny Roulette",
+    "Category": "Recreational Machine",
+    "TotalBets": "10000",
+    "TotalWins": "5000",
+    "AverageBetAmount": "0.5",
+    "PopularityScore": "8.6"
+  },
+  {
+    "GameName": "Euchre",
+    "Category": "Card Game",
+    "TotalBets": "3000",
+    "TotalWins": "1500",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "4.7"
+  },
+  {
+    "GameName": "Video Blackjack",
+    "Category": "Recreational Machine",
+    "TotalBets": "20000",
+    "TotalWins": "10000",
+    "AverageBetAmount": "1.0",
+    "PopularityScore": "9.5"
+  },
+  {
+    "GameName": "Spades",
+    "Category": "Card Game",
+    "TotalBets": "4000",
+    "TotalWins": "2000",
+    "AverageBetAmount": "5.0",
+    "PopularityScore": "6.2"
+  },
+  {
+    "GameName": "Penny Poker",
+    "Category": "Recreational Machine",
+    "TotalBets": "15000",
+    "TotalWins": "7500",
+    "AverageBetAmount": "0.5",
+    "PopularityScore": "9.2"
+  },
+  {
+    "GameName": "Cribbage Poker",
+    "Category": "Card Game",
+    "TotalBets": "5000",
+    "TotalWins": "2500",
+    "AverageBetAmount": "8.0",
+    "PopularityScore": "6.6"
+  },
+  {
+    "GameName": "Penny Bingo",
+    "Category": "Recreational Machine",
+    "TotalBets": "10000",
+    "TotalWins": "5000",
+    "AverageBetAmount": "0.5",
+    "PopularityScore": "8.0"
+  },
+  {
+    "GameName": "Gin Rummy Poker",
+    "Category": "Card Game",
+    "TotalBets": "3000",
+    "TotalWins": "1500",
+    "AverageBetAmount": "8.0",
+    "PopularityScore": "5.6"
+  }
+]
